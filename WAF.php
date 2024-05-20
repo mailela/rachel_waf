@@ -2,7 +2,7 @@
 
 namespace RACHEL_WAF;
 //当前程序版本
-define("RACHEL_WAF_VERSION", "1.0.9");
+define("RACHEL_WAF_VERSION", "1.0.8");
 // 官方升级地址
 define("RACHEL_WAF_UPDATE_API", "Wk1OMWtRYWZoOGM5RURscy8veEJOQTk0OElpNzRlYXhnVWdKSUZHckxCYU1QSlV2dzF3OVkwSk1wY3hrQ2JHbTFpak5Cd3VITGpMMHRWeHJ0MVpSWFNFdklWTm9pZDZhajJKRzk4T1Yyd2Fpck42UHpXdTFqOEk0SCtBSFdnNzc=");
 class _Env
