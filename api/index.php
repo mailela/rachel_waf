@@ -1,0 +1,2 @@
+<?php
+include "../WAF.php";
